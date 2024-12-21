@@ -8,7 +8,7 @@
 
 set -e
 
-COMMON=mt6768-common
+device=earth
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
